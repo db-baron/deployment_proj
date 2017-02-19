@@ -1,0 +1,3 @@
+*.pyc
+venv_Django2_7
+.DS_Store
